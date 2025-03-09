@@ -1,0 +1,44 @@
+/* Chrome, Safari, Edge, Opera, Brave */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    appearance: textfield;
+    -moz-appearance: textfield;
+}
+
+
+body {
+    margin: 0%;
+    background-color: aliceblue;
+    
+
+}
+
+.heading {
+    border: 2px solid black;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+.imgoutline {
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+    background-image: url('bg.webp');
+    background-repeat: no-repeat;
+    
+}
+
+img {
+    max-width: 100%;
+    display: none;
+
+}
+
+
