@@ -44,7 +44,7 @@ You can view the live demo of the project here:
 🔗 [GitHub Pages](https://ritika-pal286.github.io/Student-Reg-Form/)
 
 ## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
+Contributions are welcome! Feel free to fork the repository and submit
 
 ## 📧 Contact
 For any queries or suggestions, contact:
